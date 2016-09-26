@@ -1,0 +1,31 @@
+{
+  "name": "leoche.github.io",
+  "version": "2.0.0",
+  "description": "Leoche website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leoche/Leoche.github.io.git"
+  },
+  "keywords": [
+    "Leoche"
+  ],
+  "author": "Léo DESIGAUX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Leoche/Leoche.github.io/issues"
+  },
+  "homepage": "https://github.com/Leoche/Leoche.github.io#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-uglifycss": "^1.0.6",
+    "main-bower-files": "^2.13.1"
+  }
+}

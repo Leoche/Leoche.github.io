@@ -1,0 +1,25 @@
+{
+  "name": "leoche.github.io",
+  "description": "Leoche website",
+  "main": "index.js",
+  "authors": [
+    "Léo DESIGAUX"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Leoche"
+  ],
+  "homepage": "https://github.com/Leoche/Leoche.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "normalize-css": "^4.2.0"
+  }
+}
