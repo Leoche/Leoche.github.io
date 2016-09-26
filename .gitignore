@@ -1,2 +1,2 @@
-bower_components/*
-node_modules/*
+dev/bower_components/*
+dev/node_modules/*
